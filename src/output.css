@@ -613,6 +613,14 @@ video {
     margin-left: 600px;
   }
 
+  .lg\:mt-\[\] {
+    margin-top: ;
+  }
+
+  .lg\:mt-\[50px\] {
+    margin-top: 50px;
+  }
+
   .lg\:flex {
     display: flex;
   }
