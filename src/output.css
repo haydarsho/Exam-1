@@ -554,24 +554,8 @@ video {
   display: none;
 }
 
-.ml-\[100px\] {
-  margin-left: 100px;
-}
-
-.ml-\[20px\] {
-  margin-left: 20px;
-}
-
-.ml-\[30px\] {
-  margin-left: 30px;
-}
-
 .ml-\[40px\] {
   margin-left: 40px;
-}
-
-.flex {
-  display: flex;
 }
 
 .gap-\[20px\] {
@@ -580,10 +564,6 @@ video {
 
 .text-\[10px\] {
   font-size: 10px;
-}
-
-.text-\[\] {
-  color: ;
 }
 
 .text-\[\#703412\] {
